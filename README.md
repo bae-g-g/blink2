@@ -4,12 +4,20 @@
 ## 유트브 링크 
 - 작동설명
   https://youtu.be/pDX98mS9Ldc?si=K6_6Ifezuskv7glN
-- 아두이노 코드 설명
+- 아두이노 코드 설명(2주차 과제와 변경사항이 없습니다.)
 https://youtu.be/9J7bw1u8GeM?si=LmlO0U5ShBDX8VP5
 - p5.js 코드 설명 
 https://youtu.be/2N-TeJWmRuA?si=iGLT7jIxwPjh3j5M
 
+---
+---
+### 3주차 과제에서 추가된 내용은 글 하단에 있습니다.
+### 아두이노의 회로,코드의 변경사항은 없습니다.
+---
+---
 ![image](https://github.com/user-attachments/assets/0b16ab2e-18f1-4164-80dd-bac7d4ad4769)
+
+
 
 
 # Arduino
@@ -167,6 +175,6 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
 각 함수는 현재 눌린 버튼에 해당하는 상태를 아두이노로 송신하고
 아두이노는 이를 수신하여 상태를 변경합니다.
 
-
+**ㄴㄴ**
 
 
