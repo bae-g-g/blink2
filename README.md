@@ -207,7 +207,7 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
 
 
 
-##주기변경
+## 주기변경
 | 색상     | Red    | Yellow     | Green     |
 |-----------|-----------|-----------|-----------|
 | 증가     |  ![r_u](https://github.com/user-attachments/assets/042ac82a-5693-4545-b94b-2d5400a6fcbb) | ![y_u](https://github.com/user-attachments/assets/bfd7fc83-34e8-4869-a303-59a3ac0c7089) | ![g_u](https://github.com/user-attachments/assets/2a93610f-ff98-4f86-aab6-62290cf82cf4)|
