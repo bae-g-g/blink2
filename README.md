@@ -195,8 +195,8 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
 - 손가락이 2개만 펴진경우 off 상태가 됩니다.
 - 손가락이 3개만 펴진경우 normal상태가 됩니다.
 
-*제스처를 통한 모드변경에서 토글기능은 지원하지않습니다*
-*예를 들어, Emergency상태에서 Emergency제스처를 한번더 인식시켜도 normal로 돌아가지 않고 Emergency상태를 유지합니다.*
+**제스처를 통한 모드변경에서 토글기능은 지원하지않습니다**
+  - 예를 들어, Emergency상태에서 Emergency제스처를 한번더 인식시켜도 normal로 돌아가지 않고 Emergency상태를 유지합니다.
 
 
 
@@ -216,7 +216,7 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
   - 손가락이 1개만 펴진경우 노란색 주기를 감소시킵니다.
   - 손가락이 2개만 펴진경우 녹색 주기를 감소시킵니다.
   
-*각 증가 감소 수치는 250ms입니다.*
+**각 증가 감소 수치는 250ms입니다.**
 
 ---
 *4개 모드 버튼은 2주차 과제에서 구현하였습니다.* 
