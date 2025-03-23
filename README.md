@@ -206,6 +206,7 @@ emergency_buuton,blink_buuton,off_buuton,normal_buuton함수가 호출됩니다.
 
 
 
+
 ##주기변경
 | 색상     | Red    | Yellow     | Green     |
 |-----------|-----------|-----------|-----------|
