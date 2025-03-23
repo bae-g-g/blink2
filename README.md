@@ -8,11 +8,13 @@
   https://youtu.be/9J7bw1u8GeM?si=LmlO0U5ShBDX8VP5
 - p5.js 코드 설명 
   https://youtu.be/kihaiLj0fFM?si=3fJv_j5dy76PqZX7
+
+    
 - **3주차 과제에서 추가된 내용 설명 부분**
   - 0:35 ~ 2:05
   - 4:50 ~ 5:50
   - 9:00 ~ 10:05
-  - 13:40
+  - 13:40 ~
 ---
 ---
 ### 3주차 과제에서 추가된 내용은 글 하단에 있습니다.
